@@ -58,7 +58,7 @@ generateBtn.onclick = async () => {
   resultText.value = data.result || "Gagal memproses teks";
 
   generateBtn.disabled = false;
-  generateBtn.textContent = "Parafrase Akademik";
+  generateBtn.textContent = "Parafrase With AI✨";
 };
 
 copyBtn.onclick = () => {
